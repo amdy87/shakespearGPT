@@ -3,7 +3,7 @@ GPT transformer model that imitates shakespear text adapted from [Andrej Karpath
 
 The v2 model is trained on all shakespear text found in the input.txt file. It utilizes the transformer multi-headed self-attention to achieve better results compared to the base bigram language model it was built on. 
 
-
+```
 Experimental Parameters
 ******************************
 Batch size:  64
@@ -43,3 +43,4 @@ Uncle Menenius? You know to appose the heaviliff;
 And were well mine, and pace-so, dost hump,
 For it stop apper with possessance to him?
 And here thou
+```
